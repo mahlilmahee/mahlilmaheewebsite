@@ -78,10 +78,11 @@ padding-left: 5%;
      background-image: none;
 }
 h2{
- color: rgba(34, 112, 201, 0.945);
+ color: rgba(205, 219, 235, 0.945);
     text-align: center;
     margin-top: 50px;
     margin-bottom: 50px;
+    border-radius: 10px;
 width: 50%;
     border: 10px solid;
     margin: 2px auto
@@ -96,8 +97,8 @@ h1:hover{
     color: rgb(235, 18, 18);
 }
 footer:hover{
-     background-color: rgb(66, 66, 66);
-     color: white;
+     background-color: rgb(97, 252, 239);
+     color: rgb(10, 10, 10);
 }
 .color:hover{
      background-color: gold;
@@ -106,9 +107,13 @@ footer:hover{
      background-color: greenyellow;
 }
 .jaja:hover{
-     background-color: rgb(153, 107, 95);
+     background-color: rgb(141, 173, 231);
 }
 h2:hover{
      background-color: lawngreen;
-     color: black;
+     color: rgb(90, 81, 81);
+     
+}
+*{ 
+     border-radius: 10px;
 }
