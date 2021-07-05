@@ -45,6 +45,70 @@ button:hover{
 }
 .mahee{
     width: 40%;
-    padding-left: 50px;
+    padding-left: 50px;}
+
      
+.line{
+     border-left: 10px transparent solid;border-right: 10px transparent solid;
+     border-image: linear-gradient(rgb(5, 5, 197),rgb(250, 169, 19));
+     margin-top: 100px;
+     border-image-slice: 2;
+     border-radius: 5px;
+     border-radius: 20px;
+     box-shadow: steelblue 10px -10px  20px ;
+     box-sizing: border-box;
+     width: 95%;
+}
+.mmm{
+    width: 40%;
+    border-left: transparent 10px solid ;
+    border-image:linear-gradient( green,red);
+    border-image-slice: 4;
+    margin-left: 5%;
+    box-shadow: cadetblue 10px 10px 20px;
+}
+.mah{border-left: black 10px solid ;
+    
+border-image:linear-gradient( yellow,black);
+border-image-slice: 4;
+width: 40%;
+padding-left: 5%;
+ box-shadow: cadetblue 10px 10px 20px;}
+.ddd{
+     background-image: none;
+}
+h2{
+ color: rgba(34, 112, 201, 0.945);
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+width: 50%;
+    border: 10px solid;
+    margin: 2px auto
+}
+.mah:hover{
+     background-color: cadetblue;
+}
+.mt:hover{
+     background-color: darkolivegreen;
+}
+h1:hover{ 
+    color: rgb(235, 18, 18);
+}
+footer:hover{
+     background-color: rgb(66, 66, 66);
+     color: white;
+}
+.color:hover{
+     background-color: gold;
+}
+.jjj:hover{
+     background-color: greenyellow;
+}
+.jaja:hover{
+     background-color: rgb(153, 107, 95);
+}
+h2:hover{
+     background-color: lawngreen;
+     color: black;
 }
