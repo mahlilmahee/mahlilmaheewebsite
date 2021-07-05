@@ -1,0 +1,50 @@
+h1{font-family: 'Dancing Script', cursive;
+font-size: 39px;}
+p{ font-family: 'Dancing Script', cursive;
+    font-family: 'Shadows Into Light', cursive;
+font-weight: 700;}
+img{
+     width: 500px;height: 500px;
+     
+}
+.first-section{
+    display: flex
+    ;
+}
+p{ }
+.first-div{
+     width: 40%;
+     margin: 4px;
+     padding-left: 120px;
+     padding-right: 1px;
+     box-shadow: 10px 10px 20px rgb(110, 109, 110);
+     border-radius: 20px;
+     padding-top: 40px;
+     background-color: rgb(219, 233, 221);
+     
+}
+.first-section{
+     background-image: url(images/top-banner.png);
+     background-repeat: no-repeat;
+     padding-top: 50px;
+}
+a{
+     text-decoration: none;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     font-size: 15px;
+}
+button{
+    border-radius: 5px;
+    height: 30px;color: white;
+
+     background-image: linear-gradient(rgb(21, 255, 21),purple);
+}
+button:hover{
+     background-origin: border-box;
+     background-image: linear-gradient(yellow,red);
+}
+.mahee{
+    width: 40%;
+    padding-left: 50px;
+     
+}
